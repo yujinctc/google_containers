@@ -1,1 +1,1 @@
-# kubenetes_docker
+# kube-proxy-amd64
