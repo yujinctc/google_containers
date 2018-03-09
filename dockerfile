@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kube-proxy-amd64
+From gcr.io/google_containers/etcd-amd64:3.1.11
